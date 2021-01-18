@@ -13,8 +13,8 @@ public class DmbCellPhoneEx {
 		dmbCellPhone.powerOn();
 		dmbCellPhone.bell();
 		dmbCellPhone.sendVoice("여보세요");
-		dmbCellPhone.receiveVoice("안녕하세요! 저는 홍길동인데요");
-		dmbCellPhone.sendVoice("아~ 예 반갑습니다.");
+		dmbCellPhone.receiveVoice("안녕하세요! 저는 김다은인데요");
+		dmbCellPhone.sendVoice("아항 반갑습니다.");
 		dmbCellPhone.hangUp();
 
 		// DmbCellPhone 메소드 호출
