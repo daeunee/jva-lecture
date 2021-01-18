@@ -3,9 +3,9 @@ package com.yrdomain.ch07;
 public class DmbCellPhoneEx {
 
 	public static void main(String[] args) {
-		DmbCellPhone dmbCellPhone = new DmbCellPhone("자바폰", "검정", 10);
+		DmbCellPhone dmbCellPhone = new DmbCellPhone("아이폰", "흰색", 11);
 		
-		System.out.println("모댈: " + dmbCellPhone.model);
+		System.out.println("모델: " + dmbCellPhone.model);
 		System.out.println("색상: " + dmbCellPhone.color);
 		// DmbCellPhone 필드
 		System.out.println("채널: " + dmbCellPhone.channel);
